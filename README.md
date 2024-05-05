@@ -16,5 +16,15 @@ In this task, I have designed and developed a simple landing page for a food res
 
 ## How to View the Landing Page
 1. Clone the repository to your local machine using the following command:
-git clone [Insert my respository url ]
+- git clone [Insert my respository url]
+2. Open the `landpage.html` file in your preferred web browser to view the landing page.
+
+## Preview
+![Landing Page Preview](screenshot.png)
+
+## Author
+Adithiyaa  - [adithiyaaaiml2005@gmail.com - www.linkedin.com/in/adithiyaa-s22
+
+Feel free to reach out for any questions, feedback, or collaboration opportunities!
+
 
