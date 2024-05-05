@@ -20,7 +20,7 @@ In this task, I have designed and developed a simple landing page for a food res
 2. Open the `landpage.html` file in your preferred web browser to view the landing page.
 
 ## Preview
-![Landing Page Preview](screenshot.png)
+![Landing Page Preview](task1/screenshot.png)
 
 ## Author
 Adithiyaa  - [adithiyaaaiml2005@gmail.com - www.linkedin.com/in/adithiyaa-s22
