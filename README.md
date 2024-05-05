@@ -16,3 +16,5 @@ In this task, I have designed and developed a simple landing page for a food res
 
 ## How to View the Landing Page
 1. Clone the repository to your local machine using the following command:
+git clone [Insert my respository url ]
+
